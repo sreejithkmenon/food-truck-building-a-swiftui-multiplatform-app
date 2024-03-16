@@ -6,7 +6,7 @@ Create a single codebase and app target for Mac, iPad, and iPhone.
 
 Using the Food Truck app, someone who operates a food truck can keep track of orders, discover the most-popular menu items, and check the weather at their destination. The sample implements the new [`NavigationSplitView`](https://developer.apple.com/documentation/swiftui/navigationsplitview) to manage the app's views, [`Layout`](https://developer.apple.com/documentation/swiftui/layout) to show the main interface and pending orders, [`Charts`](https://developer.apple.com/documentation/charts) to show trends, and [`WeatherService`](https://developer.apple.com/documentation/weatherkit/weatherservice) to get weather data. Food Truck also implements Live Activities to show the remaining order preparation time with [ActivityKit](https://developer.apple.com/documentation/activitykit) on the lock screen, and with [`DynamicIsland`](https://developer.apple.com/documentation/widgetkit/dynamicisland) on the home screen.
 
-You can access the source code for this sample on [GitHub](https://github.com/apple/sample-food-truck).
+You can access the source code for this sample on [GitHub](https://github.com/sreejithkmenon/food-truck-building-a-swiftui-multiplatform-app).
 
 - Note: This sample code project is associated with WWDC22 session [110492: State of the Union](https://developer.apple.com/wwdc22/110492/).
 
